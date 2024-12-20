@@ -1,4 +1,3 @@
-
 <h1 align="center">🎄 Christmas Landing Page</h1>
 
 <p align="center">
@@ -68,22 +67,27 @@ npx serve
 ## 📂 Project Structure
 
 ```
-christmas-landing/
+.
+├── .gitignore
+├── favicon.png
+├── gsap.min.js
+├── home-moon.png
+├── home-mountain-1.png
+├── home-mountain-2.png
+├── home-mountain-3.png
+├── home-pine-tree.png
+├── home-snow-move.png
+├── home-snow.png
+├── home-trineo-santa.png
+├── home-village.png
 ├── index.html
-├── style.css
-├── script.js
+├── logo.png
 ├── README.md
-└── assets/
-    ├── logo.png
-    ├── favicon.png
-    ├── home-moon.png
-    ├── home-mountain-1.png
-    ├── home-mountain-2.png
-    ├── home-mountain-3.png
-    ├── home-pine-tree.png
-    ├── home-village.png
-    ├── home-snow.png
-    └── home-trineo-santa.png
+├── rellax.min.js
+├── script.js
+├── scrollreveal.min.js
+├── snow-img.png
+└── style.css
 ```
 
 ## 💻 Usage
